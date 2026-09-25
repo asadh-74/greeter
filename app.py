@@ -12,7 +12,7 @@ GREETING_HTML = f"""
   <head><title>Greeter</title></head>
   <body style="font-family: sans-serif; text-align: center; margin-top: 50px;">
     <h1>Hi, my name is {NAME}!</h1>
-    <p>Today's date: {date.today().isoformat()}</p>
+        <p>"Stay hungry, stay foolish."</p>
     <p>Serving from inside a Docker container.</p>
   </body>
 </html>
