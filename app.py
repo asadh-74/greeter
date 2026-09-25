@@ -11,7 +11,7 @@ GREETING_HTML = f"""
 <html>
   <head><title>Greeter</title></head>
   <body style="font-family: sans-serif; text-align: center; margin-top: 50px;">
-    <h1>Hi, my name is {NAME}!</h1>
+    <h1>Yo, my name is {NAME}!</h1>
         <p>"Stay hungry, stay foolish."</p>
     <p>Serving from inside a Docker container.</p>
   </body>
